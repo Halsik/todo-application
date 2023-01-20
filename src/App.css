@@ -1,0 +1,17 @@
+.App {
+    height: 100vh;
+    width: 100%;
+    
+    background-color: #141414;
+    color: white; 
+   
+    display: flex;
+
+
+
+
+    /* LIGHT MODE */
+    /* background-color: white;
+    color: #141414; */
+}
+
